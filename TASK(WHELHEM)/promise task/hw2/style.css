@@ -1,0 +1,36 @@
+.a{
+    background-image:url(https://3.bp.blogspot.com/-Kv9jtlRdiOw/Vv-rCCdLrdI/AAAAAAAAzWQ/w9s
+    M_RqaCic9ytjp7rGfxMfwdPXpXm-hg/s1600/Thiruvalluvar-Statue-in-kanyakumari.jpg);
+}
+div{
+    color: rgb(25, 16, 18);
+    text-align: center;
+}
+.container{
+ 
+}
+h4{
+    background-color: #AED6F1 
+    ;
+}
+h2{
+    background-color: #5DADE2 ;
+}
+h5{
+    background-color: rgb(99, 99, 15);
+}
+.btn{
+    border-radius: 5px;
+    background-image: linear-gradient(to left,rgb(224, 14, 154),rgb(146, 4, 47));  
+    color: white;
+    height: 30px;
+    margin-top: 50px;
+}
+#kural{
+    background-image: linear-gradient(to left,rgb(29, 83, 12),rgb(117, 113, 8));  
+    color: white;
+}
+h1{
+    color: rgb(125, 31, 114);
+    text-align: center;
+}
